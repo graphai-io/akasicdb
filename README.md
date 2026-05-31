@@ -21,10 +21,11 @@ Useful starting points:
 - [Overview](https://graphai-repository.github.io/akasicdb-docs/latest/en/getting-started/overview/)
 - [Quick Start](https://graphai-repository.github.io/akasicdb-docs/latest/en/getting-started/quick-start/)
 - [Installation](https://graphai-repository.github.io/akasicdb-docs/latest/en/installation/installation/)
-- [Usage](https://graphai-repository.github.io/akasicdb-docs/latest/en/usage/index/)
-- [Examples and Tutorials](https://graphai-repository.github.io/akasicdb-docs/latest/en/examples/index/)
-- [Release Notes](https://graphai-repository.github.io/akasicdb-docs/latest/en/release-note/index/)
-- [License Information](https://graphai-repository.github.io/akasicdb-docs/latest/en/license/index/)
+- [Client Packages](https://graphai-repository.github.io/akasicdb-docs/latest/en/client-packages/)
+- [Examples and Tutorials](https://graphai-repository.github.io/akasicdb-docs/latest/en/examples/)
+- [Usage](https://graphai-repository.github.io/akasicdb-docs/latest/en/usage/)
+- [Release Notes](https://graphai-repository.github.io/akasicdb-docs/latest/en/release-note/)
+- [License Information](https://graphai-repository.github.io/akasicdb-docs/latest/en/license/)
 
 ## Getting AkasicDB
 
